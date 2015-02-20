@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+Clone makes a direct copy (aka clone) of a (usually) remote repository onto your local repository complete with edit/commit history and branches.
