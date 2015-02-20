@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+A branch is a second progression of work from the main repository. Having branches allows files to be worked on independently of each other, with each branch containing unmodified versions of files currently being worked on in other branches. This is important if the file being edited relies on the integrity of other files in the repository to function, as changes being made in those files may not leave them completely useful (or usable) during the course of editing.
