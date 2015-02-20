@@ -1,1 +1,1 @@
-Explain what the "upstream" remote is usually used for, in your own words
+The "upstream" remote is used to designate the remote connection to the main central repository. In essence this is the master copy for the project. It can be updated by various contributors, so making this "upstream" connection allows for changes made by other contributors to be tracked and merged into the local repository.
